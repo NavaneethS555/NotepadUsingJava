@@ -1,6 +1,6 @@
 # Notepad
 
-Notepad is an application developed by Microsoft. We can write, edit, save the text documents in Notepad.
+Notepad is an application used to write, edit, save the text documents.
 
 I have implemented an application similar to Notepad in Java using Eclipse IDE. I have used the object oriented concepts like classes, objects, implements, constructors, 'this' keyword, etc.
 
